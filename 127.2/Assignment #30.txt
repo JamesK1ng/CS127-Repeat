@@ -1,0 +1,4 @@
+#outputs of the gates
+out1 = ((in1 and in2)
+out2 = ((in1 or in) and (not in1 and in2)
+out3 = (not in2)

@@ -1,0 +1,3 @@
+#Assignment #34
+
+(not in1) or (in1)
